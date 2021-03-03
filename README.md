@@ -4,7 +4,7 @@
 
 # Descrição do Projeto
 
-Site desenvolvido com o intuito de colocar em pratica Html, CSS e Javascript.
+Site desenvolvido com o intuito de colocar em pratica Html, CSS e flexbox.
 
 # Que tal uma olhadinha no Projeto ?
 
