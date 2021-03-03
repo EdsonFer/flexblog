@@ -1,6 +1,6 @@
-<h1 align="center">flexblog</h1>
+<h1 align="center">Flexblog</h1>
 
-<img src="https://i.ibb.co/Sr1LL7Z/Capturar.png" alt="Flexblog>
+<img src="https://i.ibb.co/Sr1LL7Z/Capturar.png" alt="Flexbox" >
 
 # Descrição do Projeto
 
